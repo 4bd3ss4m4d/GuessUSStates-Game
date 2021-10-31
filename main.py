@@ -1,7 +1,7 @@
 # US's 50 States Game
 
 ################################
-### Created by 4bd3ss4md #######
+##### Created by 4bd3ss4md #####
 ################################
 
 from turtle import Turtle, Screen
